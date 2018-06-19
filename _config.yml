@@ -13,7 +13,7 @@ github_username:  loremipsum
 gplus_username:  loremipsum
 linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: loremipsum
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+profile_picture: https://avatars1.githubusercontent.com/u/29332811?s=400&u=0ae8788332aefc3ccd20f8e92809d4e452d6f56f&v=4
 
 # Build settings
 markdown: kramdown
