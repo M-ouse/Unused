@@ -60,7 +60,6 @@ links:
 # projects in header index
 projects:
   - name: Proxy
-    url: https://rxll.com
-
+    url: https://rxll.science
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
