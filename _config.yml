@@ -63,4 +63,3 @@ projects:
     url: https://rxll.science
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
-timezone: CN
