@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IDA Pro Keyboard Shortcuts"
+title:  "IDA Pro快捷键"
 image: ''
 date:   2018-06-24
 tags:
