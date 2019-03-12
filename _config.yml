@@ -60,6 +60,6 @@ links:
 # projects in header index
 projects:
   - name: Proxy
-    url: https://rxll.science
+    url: https://github.com/M-ouse/Proxy-Panel
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
